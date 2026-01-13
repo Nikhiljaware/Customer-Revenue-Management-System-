@@ -1,0 +1,7 @@
+{
+  "name": "RevGenius CRM",
+  "description": "A high-performance Customer Revenue Management System featuring real-time analytics, AI-driven insights, and comprehensive account tracking for modern enterprises.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
